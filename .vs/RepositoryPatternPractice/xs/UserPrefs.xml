@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{7D27F95F-44B3-460B-8BBA-8D3470E77D7A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RepositoryPatternPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepositoryPatternPractice/Program.cs">
+    <Files>
+      <File FileName="RepositoryPatternPractice/Program.cs" Line="25" Column="24" IsPinned="True" />
+      <File FileName="RepositoryPatternPractice/Repositories/IRepository.cs" Line="22" Column="5" />
+      <File FileName="RepositoryPatternPractice/Repositories/Repository.cs" Line="21" Column="8" />
+      <File FileName="RepositoryPatternPractice/Models/MypostgresContext.cs" Line="1" Column="1" />
+      <File FileName="RepositoryPatternPractice/Models/Book.cs" />
+      <File FileName="RepositoryPatternPractice/Models/Author.cs" />
+      <File FileName="RepositoryPatternPractice/IUnitOfWork.cs" Line="16" Column="2" />
+      <File FileName="RepositoryPatternPractice/UnitOfWork.cs" Line="27" Column="1" />
+      <File FileName="RepositoryPatternPractice/Repositories/Book/BookRepository.cs" Line="24" Column="32" />
+      <File FileName="RepositoryPatternPractice/Repositories/Author/AuthorRepository.cs" Line="17" Column="19" />
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/6.0.300/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="RepositoryPatternPractice/Repositories/Book/IBookRepository.cs" Line="14" Column="1" />
+      <File FileName="RepositoryPatternPractice/Repositories/Author/IAuthorRepository.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepositoryPatternPractice" expanded="True">
+            <Node name="RepositoryPatternPractice" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Author" expanded="True" />
+                <Node name="Book" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
